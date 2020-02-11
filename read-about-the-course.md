@@ -28,25 +28,25 @@ The main target audience groups include:
 
 The course is provided in English. It consists of four units as follows including 15 lessons as well as audiovisual learning materials. The content was developed and delivered in October-November 2019.
 
-* **Unit 1: Data, Services and Applications** will cover the topics of value of data in agriculture to support farmers, increase their income and develop food production; digital farmer profiling and the strategies to design business model for profiling. 
-  * Lesson 1.1. Data for agriculture
-  * Lesson 1.2. Farmer profiling 
-* **Unit 2: Data Sharing Principles** will focus on the topics of principles and benefits of open data; the potential of using and publishing data in agriculture; responsible data sharing practises for farm data; ethical and legal sensitivities of data-driven services; and data protection.
-  * Lesson 2.1. What is shared and open data? 
-  * Lesson 2.2. Challenges for smallholders in data value chains
-  * Lesson 2.3. Responsible data sharing in agricultural value chains
-  * Lesson 2.4. Personal data protection
-* **Unit 3: Using Data** will guide you on how and where to find open data; data quality elements, analyse, data analysis and visualization.
-  * Lesson 3.1. Discovering shared and open data
-  * Lesson 3.2. Quality and provenance
-  * Lesson 3.3. Data retrieval, analysis and visualization
-  * Lesson 3.4. Open data in policy cycles
-* **Unit 4: Exposing Data** will cover the topics of conceptual frameworks for sharing data; and the ways to make data findable, accessible, interoperable, and reusable.
-  * Lesson 4.1. Managing data for reuse
-  * Lesson 4.2. Guiding frameworks for data sharing
-  * Lesson 4.3. Introduction to data interoperability
-  * Lesson 4.4. Interoperability of farm data
-  * Lesson 4.5. Open licensing for data
+* \*\*\*\*[**Unit 1: Data, Services and Applications**](https://aims.gitbook.io/farm-data-mooc/unit-1-data-services-and-applications) will cover the topics of value of data in agriculture to support farmers, increase their income and develop food production; digital farmer profiling and the strategies to design business model for profiling. 
+  * [Lesson 1.1. Data for agriculture](https://aims.gitbook.io/farm-data-mooc/unit-1-data-services-and-applications/lesson-1.1-data-for-agriculture)
+  * [Lesson 1.2. Farmer profiling](https://aims.gitbook.io/farm-data-mooc/unit-1-data-services-and-applications/lesson-1.2-farmer-level-data-and-farmer-profiling) 
+* \*\*\*\*[**Unit 2: Data Sharing Principles**](https://aims.gitbook.io/farm-data-mooc/untitled) will focus on the topics of principles and benefits of open data; the potential of using and publishing data in agriculture; responsible data sharing practises for farm data; ethical and legal sensitivities of data-driven services; and data protection.
+  * [Lesson 2.1. What is shared and open data? ](https://aims.gitbook.io/farm-data-mooc/untitled/lesson-2.1-what-is-shared-and-open-data)
+  * [Lesson 2.2. Challenges for smallholders in data value chains](https://aims.gitbook.io/farm-data-mooc/untitled/lesson-2.2-challenges-for-smallholders-in-data-value-chains)
+  * [Lesson 2.3. Responsible data sharing in agricultural value chains](https://aims.gitbook.io/farm-data-mooc/untitled/untitled-2)
+  * [Lesson 2.4. Personal data protection](https://aims.gitbook.io/farm-data-mooc/untitled/untitled-1)
+* \*\*\*\*[**Unit 3: Using Data**](https://aims.gitbook.io/farm-data-mooc/unit-3-using-data) will guide you on how and where to find open data; data quality elements, analyse, data analysis and visualization.
+  * [Lesson 3.1. Discovering shared and open data](https://aims.gitbook.io/farm-data-mooc/unit-3-using-data/lesson-3.1-discovering-open-data)
+  * [Lesson 3.2. Quality and provenance](https://aims.gitbook.io/farm-data-mooc/unit-3-using-data/lesson-3.2-quality-and-provenance)
+  * [Lesson 3.3. Data retrieval, analysis and visualization](https://aims.gitbook.io/farm-data-mooc/unit-3-using-data/lesson-3.3-data-analysis-and-visualization)
+  * [Lesson 3.4. Open data in policy cycles](https://aims.gitbook.io/farm-data-mooc/unit-3-using-data/lesson-3.4-open-data-in-policy-cycles)
+* \*\*\*\*[**Unit 4: Exposing Data**](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data) will cover the topics of conceptual frameworks for sharing data; and the ways to make data findable, accessible, interoperable, and reusable.
+  * [Lesson 4.1. Managing data for reuse](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data/lesson-4.1-managing-data-for-reuse)
+  * [Lesson 4.2. Guiding frameworks for data sharing](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data/lesson-4.2-guiding-frameworks-for-data-sharing)
+  * [Lesson 4.3. Introduction to data interoperability](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data/lesson-4.3-introduction-to-data-interoperability)
+  * [Lesson 4.4. Interoperability of farm data](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data/untitled-2)
+  * [Lesson 4.5. Open licensing for data](https://aims.gitbook.io/farm-data-mooc/unit-4-exposing-data/untitled-1)
 
 Participants are expected to spend on average eight hours per week to complete lessons.
 
