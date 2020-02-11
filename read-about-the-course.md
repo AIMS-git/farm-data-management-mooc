@@ -60,7 +60,7 @@ Currently, the course is not being delivered and the content is fully available 
 
 ## Licensing
 
-This work is licensed under a [Creative Commons BY-SA License](https://creativecommons.org/licenses/by-sa/2.0/). You do not have to ask our permission to re-use this MOOC content. You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) \(CC BY-SA 4.0\). You do not have to ask our permission to re-use this MOOC content. You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ## Acknowledgement of the contributors
 
