@@ -70,7 +70,7 @@ In order to deliver the course, FAO set up a dedicated task force to develop and
 
 ## How to cite this course? 
 
-to be updated 
+Data4Ag project of CTA with PAFO and FAO. \(2020, February 12\). Farm Data Management, Sharing and Services for Agriculture Development Online Course \(Version v1.0\). Zenodo. [http://doi.org/10.5281/zenodo.3663553](http://doi.org/10.5281/zenodo.3663553)
 
 ## Contact information
 
